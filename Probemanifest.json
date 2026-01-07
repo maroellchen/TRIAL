@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://deine-domain.de/manifest.json",
+  "id": "https://github.com/maroellchen/TRIAL/blob/main/Probemanifest.json",
   "type": "Manifest",
   "label": {
     "en": ["Bunt transparent Bild"]
@@ -13,11 +13,11 @@
       "height": 2048,
       "items": [
         {
-          "id": "https://deine-domain.de/annotation/1",
+          "id": "https://kirche-goeda.de/annotation/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://deine-domain.de/annotation/1/image",
+              "id": "https://kirche-goeda.de/annotation/1/image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -34,7 +34,7 @@
                   }
                 ]
               },
-              "target": "https://deine-domain.de/canvas/1"
+              "target": "https://kirche-goeda.de/canvas/1"
             }
           ]
         }

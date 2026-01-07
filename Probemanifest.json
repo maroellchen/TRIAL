@@ -7,7 +7,7 @@
   },
   "items": [
     {
-      "id": "https://deine-domain.de/canvas/1",
+      "id": "https://kirche-goeda.de/canvas/1",
       "type": "Canvas",
       "width": 2048,
       "height": 2048,
@@ -42,3 +42,4 @@
     }
   ]
 }
+
